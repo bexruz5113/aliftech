@@ -1,0 +1,68 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "full_name": "Bexruz Baxronov",
+      "section_choose": "Bugalteriya hisobi",
+      "position": "bugalter",
+      "gender": "Male",
+      "when_born": "2000-01-12"
+    },
+    {
+      "id": 2,
+      "full_name": "Ruslan Xoliqov",
+      "section_choose": "Marketing",
+      "position": "Boshliq",
+      "gender": "Male",
+      "when_born": "1999-06-12"
+    },
+    {
+      "id": 3,
+      "full_name": "Muxlisa Odilbekova",
+      "section_choose": "AT",
+      "position": "Marketolog",
+      "gender": "Female",
+      "when_born": "1999-12-05"
+    },
+    {
+      "id": 4,
+      "full_name": "Azamat Usmonov",
+      "section_choose": "AT",
+      "position": "Dasturchi",
+      "gender": "Male",
+      "when_born": "1995-01-22"
+    },
+    {
+      "id": 5,
+      "full_name": "cdscsdcsdcsd",
+      "section_choose": "Bugalteriya hisobi",
+      "position": "dcscsdcscsc",
+      "gender": "Male",
+      "when_born": "2021-05-21"
+    },
+    {
+      "id": 6,
+      "full_name": "sdcsdcsdc",
+      "section_choose": "Marketing",
+      "position": "csdcsdcsd",
+      "gender": "Female",
+      "when_born": "2021-05-08"
+    },
+    {
+      "id": 7,
+      "full_name": "cbsdhjcbjsdcbjsdhc",
+      "section_choose": "At",
+      "position": "csdcsdcsdcsdc",
+      "gender": "Female",
+      "when_born": "1999-05-28"
+    },
+    {
+      "id": 8,
+      "full_name": "scsdcsdcsdcsdc",
+      "section_choose": "Bugalteriya hisobi",
+      "position": "csdcsdcsdcsdcsd",
+      "gender": "Male",
+      "when_born": "1998-05-28"
+    }
+  ]
+}
